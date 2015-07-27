@@ -1,0 +1,46 @@
+.center-text {
+    text-align: center;
+}
+
+.margin-20 {
+    margin-top: 20px;
+}
+
+.row-header {
+    color: lightgray;
+    text-transform: uppercase;
+    font-size: smaller;
+    padding: 10px;
+}
+
+.property {
+    border-top: 1px solid lightgray;
+    padding: 10px;
+    color: gray;
+}
+
+.product {
+    border-top: 1px solid lightgray;
+    padding: 10px;
+    color: gray;
+}
+
+.properties {
+
+}
+
+.filters {
+}
+
+.back-to-search {
+    color: gray;
+}
+
+.drop-box {
+    height: 200px;
+    border: 1px solid lightgray;
+}
+
+.drag-items > div {
+    border: 1px solid lightgray;
+}
